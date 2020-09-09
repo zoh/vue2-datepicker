@@ -5,7 +5,7 @@ var lang = {
   formatLocale: gu,
   yearFormat: 'YYYY',
   monthFormat: 'MMM',
-  monthBeforeYear: true,
+  monthBeforeYear: true
 };
 DatePicker.locale('gu', lang);
 

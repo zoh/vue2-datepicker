@@ -5,7 +5,7 @@ var lang = {
   formatLocale: zhTW,
   yearFormat: 'YYYY年',
   monthFormat: 'MMM',
-  monthBeforeYear: false,
+  monthBeforeYear: false
 };
 DatePicker.locale('zh-tw', lang);
 

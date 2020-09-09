@@ -5,7 +5,7 @@ var lang = {
   formatLocale: az,
   yearFormat: 'YYYY',
   monthFormat: 'MMM',
-  monthBeforeYear: true,
+  monthBeforeYear: true
 };
 DatePicker.locale('az', lang);
 

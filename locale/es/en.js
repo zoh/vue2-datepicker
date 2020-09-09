@@ -4,7 +4,7 @@ var lang = {
   formatLocale: en,
   yearFormat: 'YYYY',
   monthFormat: 'MMM',
-  monthBeforeYear: true,
+  monthBeforeYear: true
 };
 
 export default lang;

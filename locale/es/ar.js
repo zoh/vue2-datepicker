@@ -5,7 +5,7 @@ var lang = {
   formatLocale: ar,
   yearFormat: 'YYYY',
   monthFormat: 'MMM',
-  monthBeforeYear: true,
+  monthBeforeYear: true
 };
 DatePicker.locale('ar', lang);
 

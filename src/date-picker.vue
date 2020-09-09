@@ -519,7 +519,11 @@ export default {
       this.$emit('update:open', true);
     },
 
-    clearValues() {},
+    clearValues() {
+      if (this.confirm && this.currentValue) {
+        this.currentValue = [];
+      }
+    },
     closePopup() {
       if (!this.popupVisible) return;
       this.defaultOpen = false;

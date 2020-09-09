@@ -21,6 +21,9 @@
       </section>
     </div>
 
+    <p>{{ value1 }}</p>
+    <p>{{ value2 }}</p>
+
     <section>
       <p>datetime range custom</p>
       <date-picker

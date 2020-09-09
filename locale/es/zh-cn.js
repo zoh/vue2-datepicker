@@ -5,7 +5,7 @@ var lang = {
   formatLocale: zhCN,
   yearFormat: 'YYYY年',
   monthFormat: 'MMM',
-  monthBeforeYear: false,
+  monthBeforeYear: false
 };
 DatePicker.locale('zh-cn', lang);
 
